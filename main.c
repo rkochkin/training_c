@@ -4,6 +4,7 @@
 #include <stdio.h>
 //#include "binsearch.h"
 #include "recursionapp.h"
+#include "permutationapp.h"
 
 int main() {
     //run(qsortApp);
@@ -13,6 +14,7 @@ int main() {
     //run(notRecursionSumApp);
     //run(recursionMaxApp);
     //run(notRecursionMaxApp);
-    run(variadicApp);
+    //run(variadicApp);
+    run(permutationNarayanaApp);
     return 0;
 }
